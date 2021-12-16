@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+go test -count=1 ./cmd/...
